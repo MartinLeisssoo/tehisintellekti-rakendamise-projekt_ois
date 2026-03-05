@@ -20,3 +20,5 @@ dependencies:
       - python-dotenv
       - watchdog
       - tiktoken
+      - streamlit-shadcn-ui
+      - pytest

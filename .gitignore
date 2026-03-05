@@ -1,0 +1,16 @@
+# Environment and secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Pre-computed embeddings (large binary files)
+*.pkl
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
